@@ -25,6 +25,15 @@ body {
   background-color: silver;
   font-family: sans-serif;
 }
+img {
+  float: right;
+}
+.sidebar{
+  width: 350px;
+  float: left;
+  background: black;
+  align-items: center;
+}
 .final {
   color: white;
   font-style: italic;
